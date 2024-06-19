@@ -3,6 +3,9 @@ name = "tcrustils"
 version = "0.1.0"
 description = "TCRUtils for Rust"
 repository = "https://github.com/anamoyee/tcrustils"
+license = "GPL-3.0-or-later"
+license-file = "LICENSE"
+
 
 [dependencies]
 anyhow = "1.0.86"
